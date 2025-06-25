@@ -1,0 +1,8 @@
+Return-Path: <alert@paypa1.com>
+Received: from unknownhost123.com (192.168.1.200)
+Reply-To: fake-support@securemail.net
+Date: Tue, 25 June 2025 10:30:00 +0000
+From: PayPal <alert@paypa1.com>
+To: victim@example.com
+Subject: Urgent: Your Account Has Been Locked
+MIME-Version: 1.0
